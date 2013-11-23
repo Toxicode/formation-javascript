@@ -23,9 +23,9 @@ Formation Javascript
 - Effets
 - Utilitaires
 
-## Programmation Orientée Objet (/oop)
+## Programmation Orientée Objet
 
-- Step-By-Step vers la programmation objet
+- Step-by-step de la programmation fonctionnelle vers la programmation objet
 
 ## Modulariser et Architecturer
 
