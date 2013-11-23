@@ -1,9 +1,13 @@
 Formation Javascript
 ====================
 
-# Basics (/basics)
+## Basics
 
-# jQuery
+- Conventions
+- Opérateurs, Primitifs
+- Utilitaires
+
+## jQuery
 
 - Parcourir le DOM
 - Manipuler le DOM
@@ -11,7 +15,7 @@ Formation Javascript
 - Inputs et Events
 - AJAX
 
-# jQuery UI
+## jQuery UI
 
 - Easing
 - Interactions
@@ -19,8 +23,18 @@ Formation Javascript
 - Effets
 - Utilitaires
 
-# Programmation Orientée Objet (/oop)
+## Programmation Orientée Objet (/oop)
 
-# Modulariser et Architecturer
+- Step-By-Step vers la programmation objet
 
-# Libs et Frameworks
+## Modulariser et Architecturer
+
+- RequireJS
+- Event Driven Pattern
+
+## Libs et Frameworks
+
+- Underscore
+- PreloadJS
+- Backbone
+- AngularJS
